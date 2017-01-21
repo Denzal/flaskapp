@@ -1,0 +1,22 @@
+{'guidislink': False,
+ 'published': 'Sat, 21 Jan 2017 14:05:46 GMT',
+ 'media_thumbnail':
+    [{'url': 'http://c.files.bbci.co.uk/13C56/production/_93728908_037411706-1.jpg',
+      'height': '549', 'width': '976'}],
+ 'summary_detail': {'value': "Rallies take place in UK as part of global protests on the first full day of Donald Trump's presidency.",
+                    'language': None,
+                    'type': 'text/html',
+                    'base': 'http://feeds.bbci.co.uk/news/rss.xml'},
+ 'links': [{'href': 'http://www.bbc.co.uk/news/uk-38700123',
+            'rel': 'alternate', 'type': 'text/html'}],
+ 'id': 'http://www.bbc.co.uk/news/uk-38700123',
+ 'title_detail': {'value': "Women's March: UK protesters join anti-Donald Trump march",
+                  'language': None,
+                  'type': 'text/plain',
+                  'base': 'http://feeds.bbci.co.uk/news/rss.xml'},
+ 'href': '',
+ 'published_parsed': time.struct_time(tm_year=2017, tm_mon=1, tm_mday=21, tm_hour=14, tm_min=5, tm_sec=46, tm_wday=5, tm_yday=21, tm_isdst=0),
+ 'summary': "Rallies take place in UK as part of global protests on the first full day of Donald Trump's presidency.",
+ 'title': "Women's March: UK protesters join anti-Donald Trump march",
+ 'link': 'http://www.bbc.co.uk/news/uk-38700123'
+}
