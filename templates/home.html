@@ -6,6 +6,13 @@
 </head>
 <body>
     <h1>Headlines {{ channel }}</h1>
+
+    <form>
+         <input type="text" name="channel" placeholder="search" />
+         <input type="submit" value="Submit" />
+    </form>
+    <hr />
+
     {% for article in articles %}
         <b><a href="{{article.link}}">{{article.title}}</a></b><br />
         <i>{{ article.published }}</i><br/>
